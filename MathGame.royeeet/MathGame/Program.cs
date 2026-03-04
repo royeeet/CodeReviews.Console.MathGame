@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using MathGame;
+﻿using MathGame;
 
 /* math game requirements:
  * 1. open with a menu prompting the user for their name, followed by choosing one of the 4 operators - done

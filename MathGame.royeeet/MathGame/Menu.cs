@@ -1,5 +1,4 @@
 ﻿using System;
-using MathGame;
 using MathGame.Models;
 
 namespace MathGame

@@ -1,12 +1,7 @@
 ﻿using MathGame.Models;
 using System;
 using System.Collections.Generic;
-using System.Timers;
 using System.Diagnostics;
-using System.Threading;
-using System.Text;
-using System.Data.SqlTypes;
-using System.Xml.Schema;
 
 namespace MathGame
 {
