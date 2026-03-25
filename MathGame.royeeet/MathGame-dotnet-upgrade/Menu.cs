@@ -1,5 +1,5 @@
-﻿using System;
-using MathGame.Models;
+﻿using MathGame_dotnet_upgrade;
+using MathGame_dotnet_upgrade.Models;
 
 namespace MathGame
 {

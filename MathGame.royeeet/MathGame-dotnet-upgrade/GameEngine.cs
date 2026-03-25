@@ -1,7 +1,7 @@
-﻿using System;
-using MathGame.Models;
+﻿using MathGame;
+using MathGame_dotnet_upgrade.Models;
 
-namespace MathGame
+namespace MathGame_dotnet_upgrade
 {
     internal class GameEngine
     {

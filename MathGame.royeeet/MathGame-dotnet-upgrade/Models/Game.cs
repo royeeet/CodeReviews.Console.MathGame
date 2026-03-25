@@ -1,7 +1,4 @@
-﻿using MathGame;
-using System;
-
-namespace MathGame.Models;
+﻿namespace MathGame_dotnet_upgrade.Models;
 
 public class Game
 {
@@ -14,7 +11,7 @@ public class Game
 
 public enum GameType
 {
-    Addition, 
+    Addition,
     Subtraction,
     Multiplication,
     Division,

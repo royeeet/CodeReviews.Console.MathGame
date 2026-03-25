@@ -1,6 +1,5 @@
-﻿using MathGame.Models;
-using System;
-using System.Collections.Generic;
+﻿using MathGame_dotnet_upgrade;
+using MathGame_dotnet_upgrade.Models;
 using System.Diagnostics;
 
 namespace MathGame
@@ -183,7 +182,7 @@ namespace MathGame
                 Console.WriteLine("correct");
                 score++;
             }
-            
+
             else
             {
                 timer.Stop();
